@@ -1,0 +1,310 @@
+# Copyright (C) 2020 WPClever.net
+# This file is distributed under the same license as the WPC Smart Search plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Smart Search 1.4.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-admin-smart-search\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-04-11T16:05:35+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: wpas\n"
+
+#. Plugin Name of the plugin
+#: wpc-smart-search.php:105
+#: wpc-smart-search.php:117
+msgid "WPC Smart Search"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Powerful AJAX search and useful tools for WordPress administrators."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever.net"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: includes/functions.php:82
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: includes/functions.php:87
+msgid "Page not found"
+msgstr ""
+
+#: includes/widgets/recent-access.php:13
+msgid "Recent access pages for WPAS."
+msgstr ""
+
+#: includes/widgets/recent-access.php:16
+msgid "[WPAS] Recent Access"
+msgstr ""
+
+#: includes/widgets/recent-access.php:61
+msgid "Recent Access"
+msgstr ""
+
+#: includes/widgets/recent-access.php:71
+#: includes/widgets/woocommerce-status.php:66
+#: includes/widgets/at-a-glance.php:72
+msgid "Widget title:"
+msgstr ""
+
+#: includes/widgets/recent-access.php:78
+msgid "Number items:"
+msgstr ""
+
+#: includes/widgets/woocommerce-status.php:13
+msgid "\"WooCommerce Status\" section for WPAS."
+msgstr ""
+
+#: includes/widgets/woocommerce-status.php:16
+msgid "[WPAS] WooCommerce Status"
+msgstr ""
+
+#: includes/widgets/woocommerce-status.php:43
+msgid "Your website do not support WooCommerce, please remove this widget."
+msgstr ""
+
+#: includes/widgets/woocommerce-status.php:61
+msgid "WooCommerce Status"
+msgstr ""
+
+#: includes/widgets/woocommerce-status.php:128
+msgid "%s product low in stock"
+msgid_plural "%s products low in stock"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/widgets/woocommerce-status.php:132
+msgid "%s product out of stock"
+msgid_plural "%s products out of stock"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/widgets/at-a-glance.php:13
+msgid "\"At A Glance\" section for WPAS."
+msgstr ""
+
+#: includes/widgets/at-a-glance.php:16
+msgid "[WPAS] At A Glance"
+msgstr ""
+
+#: includes/widgets/at-a-glance.php:37
+msgid "Posts"
+msgstr ""
+
+#: includes/widgets/at-a-glance.php:40
+msgid "Pages"
+msgstr ""
+
+#: includes/widgets/at-a-glance.php:43
+msgid "Comments"
+msgstr ""
+
+#: includes/widgets/at-a-glance.php:43
+msgid "spam"
+msgstr ""
+
+#: includes/widgets/at-a-glance.php:67
+msgid "At A Glance"
+msgstr ""
+
+#: wpc-smart-search.php:105
+msgid "Smart Search"
+msgstr ""
+
+#: wpc-smart-search.php:121
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-smart-search.php:124
+msgid "Reviews"
+msgstr ""
+
+#: wpc-smart-search.php:126
+msgid "Changelog"
+msgstr ""
+
+#: wpc-smart-search.php:128
+msgid "Discussion"
+msgstr ""
+
+#: wpc-smart-search.php:135
+msgid "How to use?"
+msgstr ""
+
+#: wpc-smart-search.php:139
+#: wpc-smart-search.php:495
+msgid "Settings"
+msgstr ""
+
+#: wpc-smart-search.php:143
+#: wpc-smart-search.php:496
+msgid "Premium Version"
+msgstr ""
+
+#: wpc-smart-search.php:150
+msgid "1. Click to the menu at top-right screen or press Ctrl+M to open the Smart Search"
+msgstr ""
+
+#: wpc-smart-search.php:151
+msgid "2. You can use bellow syntax"
+msgstr ""
+
+#: wpc-smart-search.php:154
+#: wpc-smart-search.php:410
+#: wpc-smart-search.php:418
+msgid "%s - search the post, page, product and other post types"
+msgstr ""
+
+#: wpc-smart-search.php:157
+#: wpc-smart-search.php:368
+#: wpc-smart-search.php:411
+msgid "%s - search the category, tag and other terms"
+msgstr ""
+
+#: wpc-smart-search.php:160
+#: wpc-smart-search.php:392
+#: wpc-smart-search.php:412
+msgid "%s - search the user"
+msgstr ""
+
+#: wpc-smart-search.php:163
+#: wpc-smart-search.php:354
+#: wpc-smart-search.php:413
+msgid "%s - search the admin menu"
+msgstr ""
+
+#: wpc-smart-search.php:166
+#: wpc-smart-search.php:345
+#: wpc-smart-search.php:414
+msgid "%s - search the product"
+msgstr ""
+
+#: wpc-smart-search.php:171
+#: wpc-smart-search.php:349
+#: wpc-smart-search.php:415
+msgid "%s - search the order"
+msgstr ""
+
+#: wpc-smart-search.php:183
+msgid "General"
+msgstr ""
+
+#: wpc-smart-search.php:186
+msgid "General settings."
+msgstr ""
+
+#: wpc-smart-search.php:190
+msgid "Front-end"
+msgstr ""
+
+#: wpc-smart-search.php:195
+#: wpc-smart-search.php:219
+#: wpc-smart-search.php:235
+msgid "Yes"
+msgstr ""
+
+#: wpc-smart-search.php:199
+#: wpc-smart-search.php:223
+#: wpc-smart-search.php:239
+msgid "No"
+msgstr ""
+
+#: wpc-smart-search.php:202
+msgid "Enable for the front-end?"
+msgstr ""
+
+#: wpc-smart-search.php:206
+msgid "Search limit"
+msgstr ""
+
+#: wpc-smart-search.php:214
+#: wpc-smart-search.php:592
+msgid "Search exact"
+msgstr ""
+
+#: wpc-smart-search.php:226
+msgid "Match whole post title or post content?"
+msgstr ""
+
+#: wpc-smart-search.php:230
+#: wpc-smart-search.php:596
+msgid "Search sentence"
+msgstr ""
+
+#: wpc-smart-search.php:242
+msgid "Do a phrase search?"
+msgstr ""
+
+#: wpc-smart-search.php:246
+msgid "Post types"
+msgstr ""
+
+#: wpc-smart-search.php:268
+msgid "Post statuses"
+msgstr ""
+
+#: wpc-smart-search.php:292
+msgid "Update Options"
+msgstr ""
+
+#: wpc-smart-search.php:334
+#: wpc-smart-search.php:469
+msgid "Permissions check failed!"
+msgstr ""
+
+#: wpc-smart-search.php:386
+#: wpc-smart-search.php:404
+#: wpc-smart-search.php:457
+msgid "No results found for \"%s\""
+msgstr ""
+
+#: wpc-smart-search.php:512
+msgid "Premium support"
+msgstr ""
+
+#: wpc-smart-search.php:524
+msgid "WPAS Sidebar"
+msgstr ""
+
+#: wpc-smart-search.php:525
+msgid "Widgets in this area will be shown on WPC Smart Search (WPAS)."
+msgstr ""
+
+#: wpc-smart-search.php:576
+msgid "Howdy, %s"
+msgstr ""
+
+#: wpc-smart-search.php:599
+msgid "All settings"
+msgstr ""
+
+#: wpc-smart-search.php:606
+msgid "Search..."
+msgstr ""
+
+#: wpc-smart-search.php:613
+msgid "Type keyword to search post, page, product and other post-types"
+msgstr ""
+
+#: wpc-smart-search.php:618
+msgid "Or type / to get help"
+msgstr ""
+
+#: wpc-smart-search.php:627
+msgid "Please go to Appearance >> Widgets to add more useful widgets into WPAS Sidebar."
+msgstr ""
